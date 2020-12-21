@@ -1,0 +1,6 @@
+Observations:
+Accuracy of Logistic Regression is 48.83%
+Accuracy of Random forest is 48.93%
+Accuracy of Naive Bayes is 62.87%
+
+Naive bayes approach is better in this Gender prediction as it uses nltk (natural language toolkit) which uses the description as the predicting variable to detect the gender
